@@ -52,7 +52,7 @@
 
 - The `and` operation returns `True` if all the operands are `True`
 
-## Boolean and 
+## Boolean not 
 
 - It simply inverts the value of the operand. If the operand is `True`, the result is `False`. If the operand is `False`, the result is `True`.
 
