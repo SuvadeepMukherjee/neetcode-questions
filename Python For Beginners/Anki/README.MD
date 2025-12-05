@@ -156,4 +156,20 @@ print(x ** y) # Output: 49 (7 raised to the power of 2 is 49, 7*7 = 49)
 | Boolean and      | The `and` operation returns `True` if all the operands are `True` |
 | Boolean and      | It simply inverts the value of the operand. If the operand is `True`, the result is `False`. If the operand is `False`, the result is `True`. |
 
- 
+---
+
+Anki Tag ➡️ 04-functions
+
+**Q1**: How are functions defined in Python ? 
+
+**Solution**:
+
+- Functions are defined using the `def` keyword followed by the function name and parentheses with a colon `():`
+
+- The code that belongs to the function *must* be indented with whitespace
+
+  ```python
+  def greet():
+      print("Hello, world!")
+  ```
+
