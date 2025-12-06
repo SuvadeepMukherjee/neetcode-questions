@@ -12,7 +12,7 @@
 | Loop                   |          |
 | Strings                |          |
 | Lists                  | ✅        |
-| Sets                   |          |
+| Sets                   | ✅        |
 | Dictionaries           |          |
 | Reading Stdin          |          |
 | Exception Handling     |          |
