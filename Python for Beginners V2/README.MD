@@ -7,7 +7,7 @@
 | Introduction           | ✅        |
 | Variables              | ✅        |
 | Math                   | ✅        |
-| Functions              |          |
+| Functions              | ✅        |
 | Conditional Statements |          |
 | Loop                   |          |
 | Strings                |          |
