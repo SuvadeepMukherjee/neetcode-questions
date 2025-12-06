@@ -6,7 +6,7 @@
 | ---------------------- | -------- |
 | Introduction           | ✅        |
 | Variables              | ✅        |
-| Math                   |          |
+| Math                   | ✅        |
 | Functions              |          |
 | Conditional Statements |          |
 | Loop                   |          |
