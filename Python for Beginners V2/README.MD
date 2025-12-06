@@ -4,8 +4,8 @@
 
 | Chapter                | Progress |
 | ---------------------- | -------- |
-| Introduction           |          |
-| Variables              |          |
+| Introduction           | ✅        |
+| Variables              | ✅        |
 | Math                   |          |
 | Functions              |          |
 | Conditional Statements |          |
