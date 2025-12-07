@@ -8,7 +8,7 @@
 | Variables              | ✅        |
 | Math                   | ✅        |
 | Functions              | ✅        |
-| Conditional Statements |          |
+| Conditional Statements | ✅        |
 | Loop                   |          |
 | Strings                |          |
 | Lists                  | ✅        |
