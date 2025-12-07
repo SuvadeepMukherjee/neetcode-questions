@@ -10,9 +10,9 @@
 | Functions              | ✅        |
 | Conditional Statements | ✅        |
 | Loop                   | ✅        |
-| Strings                |          |
+| Strings                | ✅        |
 | Lists                  | ✅        |
 | Sets                   | ✅        |
 | Dictionaries           | ✅        |
-| Reading Stdin          |          |
-| Exception Handling     |          |
+| Reading Stdin          | ✅        |
+| Exception Handling     | ✅        |
