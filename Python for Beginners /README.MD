@@ -23,13 +23,13 @@
 
 | Chapter                | Progress |
 | ---------------------- | -------- |
-| Introduction           |          |
-| Variables              |          |
-| Math                   |          |
-| Functions              |          |
-| Conditional Statements |          |
-| Loop                   |          |
-| Strings                |          |
+| Introduction           | ✅        |
+| Variables              | ✅        |
+| Math                   | ✅        |
+| Functions              | ✅        |
+| Conditional Statements | ✅        |
+| Loop                   | ✅        |
+| Strings                | ✅        |
 | Lists                  |          |
 | Sets                   |          |
 | Dictionaries           |          |
